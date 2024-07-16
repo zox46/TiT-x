@@ -14,7 +14,7 @@ how to instaall in linux --------------->
 
 --------> pip install requests
 
---------> git clone https://github.com/Jodgame/TiT-x
+--------> git clone https://github.com/978x/TiT-x
 
 
 how to use ----------------------->
