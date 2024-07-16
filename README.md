@@ -33,6 +33,6 @@ how to open downloaded file ------>
 
 ----------> ls
 
----------> firefox "file_name.html"
+---------> firefox "file_name.html" &
 
 ------------------------------------------------------------------------------
