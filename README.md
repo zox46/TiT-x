@@ -6,11 +6,11 @@ it can download the reeeceipts of only july 2024 , we have not added to daownloa
 
 how to instaall in linux --------------->
 
---------> apt install git
+--------> sudo apt-get install git
 
---------> apt install python3
+--------> sudo apt-get install python3
 
---------> apt install pip3
+--------> sudo apt-get install pip3
 
 --------> pip install requests
 
